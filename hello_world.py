@@ -12,7 +12,9 @@ def main():
     """
     TODO: write your code here:
     """
-    print("Hello World!")
+    print("Hello world!")
+
+    print("Hello from feature")
 
 
 if __name__ == '__main__':
