@@ -12,7 +12,7 @@ def main():
     """
     TODO: write your code here:
     """
-    print("Hello World!")
+    print("Hello world!")
 
 
 if __name__ == '__main__':
